@@ -19,5 +19,5 @@ android:
     - sys-img-armeabi-v7a-android-tv-23
 
 script:
-  - ./gardlew assembleDebug test
+  - ./gradlew assembleDebug test
 
