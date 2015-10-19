@@ -1,6 +1,6 @@
 dependencies:
   override:
-    - echo y | android update sdk --no-ui --all --filter build-tools-23.0.1,android-23
+    - echo y | android update sdk --no-ui --all --filter build-tools-23.0.0,android-23
 
 test:
   override:
